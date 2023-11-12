@@ -27,3 +27,6 @@ npm run dev
 ```sh
 npm run build
 ```
+## Deploy on Vercel
+
+https://vuetest-three.vercel.app/popup
