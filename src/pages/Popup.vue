@@ -108,4 +108,14 @@ export default{
             color: white;
             cursor: pointer;
         }
+        @media (max-width:768px) {
+
+            .content-data{
+                top:15%;
+                left:5%;
+                margin-left:auto;
+                margin-right: auto;
+                max-width: 90%;
+            }
+        }
 </style>
