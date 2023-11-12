@@ -29,4 +29,4 @@ npm run build
 ```
 ## Deploy on Vercel
 
-https://vuetest-three.vercel.app/popup
+https://vuetest-three.vercel.app
